@@ -1,2 +1,2 @@
 # Tanha-Shah.github.io
-Personal website
+This is my personal website. Get to know me better!
